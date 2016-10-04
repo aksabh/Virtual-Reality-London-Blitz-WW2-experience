@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/picking.js">
+    <Files>
+      <File FileName="Assets/KnowledgeActions.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/picking.js" Line="42" Column="42" />
+      <File FileName="Assets/OpenableDoor.js" Line="1" Column="1" />
+      <File FileName="Assets/SubwayKnowledge.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OutsideEffects.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/KnowledgeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DismissCanvas.cs" Line="1" Column="1" />
+      <File FileName="Assets/Subway.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Aircraft/Scripts/AeroplaneController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Aircraft/Scripts/AeroplaneUserControl2Axis.cs" Line="1" Column="1" />
+      <File FileName="Assets/SetupScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
